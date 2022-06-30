@@ -1,0 +1,17 @@
+.container-fluid{
+    background: rgb(0,0,0);
+    background: linear-gradient(90deg, rgba(0,0,0,1) 0%, rgba(195,199,5,1) 39%, rgba(198,209,1,1) 100%);
+}
+
+.barra-navegacion{
+    font-family: barra de navegacion;
+}
+
+.fondo{
+    background-color: rgba(57, 45, 45, 0.359)
+}
+
+@font-face {
+    font-family: barra de navegacion;
+    src: url(../fonts/BALLOONDREAMS.ttf);
+}

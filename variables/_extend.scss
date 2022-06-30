@@ -1,0 +1,17 @@
+//EXTEND
+%estilosParrafo{
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    color: rgb(0, 0, 0);
+    font-size: 20px;
+    margin-top: 0px;
+}
+
+//MIXIN
+@mixin estilosFuente ($ColorTitulo, $colorFondoTitulo){
+    text-transform: uppercase;
+    color: $ColorTitulo;
+    background-color: $colorFondoTitulo;
+    text-decoration: underline;
+    
+}

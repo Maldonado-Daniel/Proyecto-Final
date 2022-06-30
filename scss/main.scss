@@ -1,0 +1,12 @@
+@import '../variables/extend';
+
+
+@import 'footer';
+@import'header';
+@import 'navbar';
+@import 'galeria';
+@import 'section';
+
+.extend{
+    @extend %estilosParrafo;
+}

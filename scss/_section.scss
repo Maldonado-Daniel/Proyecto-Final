@@ -1,0 +1,25 @@
+.tipografia {
+    margin-top: 30px;
+}
+
+.tipografia:first-child {
+    margin-top: 0%;
+}
+
+.parrafos{
+    font-family:letra ;
+}
+
+@font-face {
+    font-family: letra;
+    src: url(../fonts/CaviarDreams.ttf);
+}
+
+.titulo{
+    font-family: letra titulo
+}
+
+@font-face {
+    font-family: letra titulo;
+    src: url(../fonts/JUNGGLE.otf);
+}

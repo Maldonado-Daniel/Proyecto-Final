@@ -1,0 +1,4 @@
+SEO:
+
+Agregue palabras clave en las etiquetas "meta", tanto en keywors como en description.
+El title del sitio tiene el nombre de la empresa.
