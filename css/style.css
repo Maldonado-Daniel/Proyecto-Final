@@ -57,15 +57,20 @@
 .tipografia {
   margin-top: 30px; }
 
+p {
+  padding-left: 100px;
+  padding-right: 100px; }
+
 .tipografia:first-child {
   margin-top: 0%; }
 
 .parrafos {
-  font-family: letra; }
+  font-family: letra;
+  color: black; }
 
 @font-face {
   font-family: letra;
-  src: url(../fonts/CaviarDreams.ttf); }
+  src: url(../fonts/Roboto-Black.ttf); }
 
 .titulo {
   font-family: letra titulo; }
